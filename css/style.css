@@ -14,3 +14,8 @@ canvas {
     width: 30rem;
     margin: 0 auto;
 }
+
+.banner{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 25pt;
+}
