@@ -183,7 +183,7 @@ class Boid {
         push();
         translate(this.position.x, this.position.y);
         rotate(angle);
-
+        //fill(102, 0, 204);
         beginShape();
         vertex(0, -this.r * 2);
         vertex(-this.r, this.r * 2);

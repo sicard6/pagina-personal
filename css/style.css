@@ -1,3 +1,16 @@
 canvas {
     position: fixed !important;
- }
+}
+
+.footer {
+    align-content: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.Mycard {
+    width: 30rem;
+    margin: 0 auto;
+}

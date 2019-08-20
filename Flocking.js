@@ -21,7 +21,7 @@ function setup() {
 }
 
 function draw() {
-    background(201);
+    background(201,255);
 
     boids.forEach(boid => {
         boid.edges();
