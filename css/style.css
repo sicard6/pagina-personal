@@ -19,3 +19,9 @@ canvas {
     font-family: 'Lexend Deca', sans-serif;
     font-size: 25pt;
 }
+
+.resaltar:hover{
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: lightgrey;
+    border-radius: 25px;
+}
