@@ -3,7 +3,7 @@ canvas {
 }
 
 .footer {
-    align-content: center;
+    align-content: flex-end;
     position: fixed;
     left: 0;
     bottom: 0;
